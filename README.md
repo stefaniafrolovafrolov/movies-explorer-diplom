@@ -1,10 +1,14 @@
 ## Дипломная работа "Приложение поиска и сохранения фильмов"
 
+![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2537.png)
+
 Добро пожаловать в репозиторий моей дипломной работы! Этот проект был разработан в рамках 10-месячного курса Яндекс Практикума по веб-разработке. Приложение представляет собой платформу для поиска и сохранения фильмов.
 
 ## Технологии
 
 В проекте использовались следующие технологии:
+
+![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2538.png)
 
 ## Бекенд
 
@@ -28,6 +32,8 @@
 
 ## Описание проекта
 
+![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2539.png)
+
 - Наше приложение предоставляет возможность искать фильмы по базе данных, предоставленной Яндексом. Мы использовали публичное API https://api.nomoreparties.co/beatfilm-movies для получения информации о фильмах.
 
 Основные функции приложения включают:
@@ -37,8 +43,11 @@
 - Удаление фильмов: Если вы удаляете фильм со страницы "Сохраненные фильмы", лайк с этого фильма автоматически снимается.
 - Фильтр короткометражек: Вы можете переключить чекбокс, чтобы отобразить только короткометражные фильмы с длительностью менее 40 минут.
 - Портфолио: Страница портфолио отображает информацию об авторе и его краткое описание.
+ ![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2543.png)
 - Авторизация и управление аккаунтом: Пользователи могут войти на сайт, используя функцию регистрации и логина.
+ ![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2544.png)
 - Также доступна страница аккаунта пользователя, где можно редактировать информацию о себе.
+ ![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2542.png)
 
 ## Установка и запуск проекта
 
@@ -81,3 +90,4 @@ https://github.com/TatianaMil/movies-explorer-frontend/compare/level-3?expand=1
 IP 51.250.70.35
 
 https://milinovadiplom.nomoreparties.sbs
+ 
