@@ -1,7 +1,9 @@
 const allowedCors = [
-  'https://milinova.nomoredomains.rocks',
-  'http://milinova.nomoredomains.rocks',
+  'https://milinovadiplom.nomoreparties.sbs',
+  'http://milinovadiplom.nomoreparties.sbs',
   'https://localhost:3000',
+  'http://localhost:3000',
+  'https://localhost:3001',
   'http://localhost:3001',
 ];
 
