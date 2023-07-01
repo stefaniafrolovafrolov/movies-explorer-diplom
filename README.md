@@ -8,6 +8,8 @@
 
 В проекте использовались следующие технологии:
 
+![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2538.png)
+
 ## Бекенд
 
 - Node.js - платформа для выполнения JavaScript на стороне сервера
