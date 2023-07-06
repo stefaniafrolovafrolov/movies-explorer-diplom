@@ -32,7 +32,7 @@
 
 ## Описание проекта
 
-![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2539.png)
+![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2605.png)
 
 - Наше приложение предоставляет возможность искать фильмы по базе данных, предоставленной Яндексом. Мы использовали публичное API https://api.nomoreparties.co/beatfilm-movies для получения информации о фильмах.
 
