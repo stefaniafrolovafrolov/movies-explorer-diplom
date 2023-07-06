@@ -8,7 +8,7 @@
 
 В проекте использовались следующие технологии:
 
-![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2538.png)
+![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2538.png)
 
 ## Бекенд
 
@@ -45,7 +45,7 @@
 - Портфолио: Страница портфолио отображает информацию об авторе и его краткое описание.
  ![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2543.png)
 - Авторизация и управление аккаунтом: Пользователи могут войти на сайт, используя функцию регистрации и логина.
- ![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2544.png)
+ ![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2544.png)
 - Также доступна страница аккаунта пользователя, где можно редактировать информацию о себе.
  ![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2542.png)
 
