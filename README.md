@@ -85,4 +85,4 @@
 
 IP 158.160.109.209
 
-https://api.milinova.nomoredomains.rocks
+https://milinova.nomoredomains.rocks
