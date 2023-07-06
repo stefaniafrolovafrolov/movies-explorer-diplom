@@ -10,7 +10,7 @@ function Footer() {
       <div className="footer__container">
         <p className="footer__author">
           {" "}
-          © {new Date().getFullYear()}. Татьяна Милинова
+          © {new Date().getFullYear()}. Фролов Вадим
         </p>
         <a
           href="https://practicum.yandex.ru"
@@ -21,7 +21,7 @@ function Footer() {
           Яндекс.Практикум
         </a>
         <a
-          href="https://github.com/TatianaMil"
+          href="https://github.com/stefaniafrolovafrolov"
           className="footer__link"
           target="_blank"
           rel="noreferrer"

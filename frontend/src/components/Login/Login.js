@@ -28,6 +28,7 @@ function Login({ onAuthorization, isLoading }) {
       onSubmit={handleFormSubmit}
       isDisabled={!isFormValid}
       isLoading={isLoading}
+      noValidate
     >
       <label className="form__label">
         E-mail
@@ -41,6 +42,7 @@ function Login({ onAuthorization, isLoading }) {
           onChange={handleChangeInput}
           pattern={EMAIL_PATTERN}
           value={enteredValues.email || ""}
+          
         />
         <span className="form__input-error">{errors.email}</span>
       </label>
@@ -51,6 +53,8 @@ function Login({ onAuthorization, isLoading }) {
           className="form__input"
           id="password-input"
           type="password"
+          minLength="4"
+          maxLength="10"
           required
           placeholder="пароль"
           onChange={handleChangeInput}

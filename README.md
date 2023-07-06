@@ -1,6 +1,6 @@
 ## Дипломная работа "Приложение поиска и сохранения фильмов"
 
-![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2537.png)
+![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2537.png)
 
 Добро пожаловать в репозиторий моей дипломной работы! Этот проект был разработан в рамках 10-месячного курса Яндекс Практикума по веб-разработке. Приложение представляет собой платформу для поиска и сохранения фильмов.
 
@@ -8,7 +8,7 @@
 
 В проекте использовались следующие технологии:
 
-![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2538.png)
+![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2538.png)
 
 ## Бекенд
 
@@ -32,7 +32,7 @@
 
 ## Описание проекта
 
-![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2539.png)
+![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2539.png)
 
 - Наше приложение предоставляет возможность искать фильмы по базе данных, предоставленной Яндексом. Мы использовали публичное API https://api.nomoreparties.co/beatfilm-movies для получения информации о фильмах.
 
@@ -43,11 +43,11 @@
 - Удаление фильмов: Если вы удаляете фильм со страницы "Сохраненные фильмы", лайк с этого фильма автоматически снимается.
 - Фильтр короткометражек: Вы можете переключить чекбокс, чтобы отобразить только короткометражные фильмы с длительностью менее 40 минут.
 - Портфолио: Страница портфолио отображает информацию об авторе и его краткое описание.
- ![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2543.png)
+ ![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2543.png)
 - Авторизация и управление аккаунтом: Пользователи могут войти на сайт, используя функцию регистрации и логина.
- ![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2544.png)
+ ![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2544.png)
 - Также доступна страница аккаунта пользователя, где можно редактировать информацию о себе.
- ![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2542.png)
+ ![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2542.png)
 
 ## Установка и запуск проекта
 

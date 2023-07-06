@@ -1,6 +1,6 @@
 {
   "name": "movies-explorer-frontend",
-  "homepage": "https://milinovadiplom.nomoreparties.sbs",
+  "homepage": "https://milinova.nomoredomains.rocks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,6 +46,6 @@
   },
   "description": "Написание сайта по поиску фильмов",
   "main": "index.js",
-  "author": "Tatiana",
+  "author": "Вадим",
   "license": "ISC"
 }

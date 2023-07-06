@@ -1,5 +1,11 @@
 import React, { useState, useEffect } from "react"
-import { Route, Routes, useNavigate, useLocation } from "react-router-dom"
+import {
+  Route,
+  Routes,
+  useNavigate,
+  useLocation,
+  Navigate,
+} from "react-router-dom"
 import ProtectedRoute from "../ProtectedRoute/ProtectedRoute"
 import "./App.css"
 import Header from "../Header/Header"
@@ -136,8 +142,8 @@ function App() {
           // Сохраняем JWT-токен в локальном хранилище
           localStorage.setItem("jwt", res.token)
           // Перенаправляем пользователя на страницу "./movies"
-          navigate("./movies")
-
+          // navigate("./movies")
+          navigate("/movies", { replace: true })
           // Устанавливаем флаг isLoggedIn в значение true
           setIsLoggedIn(true)
         }
@@ -290,22 +296,34 @@ function App() {
                 </>
               }
             />
+
             <Route
               path={"/signin"}
               element={
-                <Login
-                  onAuthorization={handleAuthorize}
-                  isLoading={isLoading}
-                />
+                isLoggedIn ? (
+                  <Navigate to="/movies" replace />
+                ) : (
+                  <Login
+                    onAuthorization={handleAuthorize}
+                    isLoading={isLoading}
+                  />
+                )
               }
             />
+
             <Route
               path={"/signup"}
               element={
-                <Register onRegister={handleRegister} isLoading={isLoading} />
+                isLoggedIn ? (
+                  <Navigate to="/movies" replace />
+                ) : (
+                  <Register onRegister={handleRegister} isLoading={isLoading} />
+                )
               }
             />
+
             <Route path={"*"} element={<NotFound />} />
+
             <Route
               path={"/movies"}
               element={
@@ -319,6 +337,7 @@ function App() {
                 />
               }
             />
+
             <Route
               path={"/saved-movies"}
               element={
@@ -331,6 +350,7 @@ function App() {
                 />
               }
             />
+
             <Route
               path={"/profile"}
               element={

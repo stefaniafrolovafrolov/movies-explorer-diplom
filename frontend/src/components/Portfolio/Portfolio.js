@@ -9,7 +9,7 @@ function Portfolio() {
       <h3 className="portfolio__title">Портфолио</h3>
       <nav className="portfolio__list">
         <a
-          href="https://tatianamil.github.io/how-to-learn/"
+          href="https://stefaniafrolovafrolov.github.io/how-to-learn/"
           className="portfolio__link portfolio__link-border"
           target="_blank"
           rel="noreferrer"
@@ -22,7 +22,7 @@ function Portfolio() {
           />
         </a>
         <a
-          href="https://tatianamil.github.io/russian-travel/"
+          href="https://stefaniafrolovafrolov.github.io/russian-travel/"
           className="portfolio__link portfolio__link-border"
           target="_blank"
           rel="noreferrer"
@@ -35,7 +35,7 @@ function Portfolio() {
           />
         </a>
         <a
-          href="https://tatianamil.github.io/react-mesto-auth/"
+          href="https://stefaniafrolovafrolov.github.io/react-mesto-auth/"
           className="portfolio__link"
           target="_blank"
           rel="noreferrer"
