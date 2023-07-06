@@ -1,6 +1,6 @@
 ## Дипломная работа "Приложение поиска и сохранения фильмов"
 
-![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2537.png)
+![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2603.png)
 
 Добро пожаловать в репозиторий моей дипломной работы! Этот проект был разработан в рамках 10-месячного курса Яндекс Практикума по веб-разработке. Приложение представляет собой платформу для поиска и сохранения фильмов.
 
