@@ -87,7 +87,7 @@ https://github.com/TatianaMil/movies-explorer-frontend/compare/level-3?expand=1
 
 ## Ccылка на проекта и IP
 
-IP 51.250.70.35
+IP 158.160.109.209
 
-https://milinovadiplom.nomoreparties.sbs
+https://api.milinova.nomoredomains.rocks
  
