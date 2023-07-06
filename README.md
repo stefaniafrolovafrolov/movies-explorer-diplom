@@ -43,7 +43,7 @@
 - Удаление фильмов: Если вы удаляете фильм со страницы "Сохраненные фильмы", лайк с этого фильма автоматически снимается.
 - Фильтр короткометражек: Вы можете переключить чекбокс, чтобы отобразить только короткометражные фильмы с длительностью менее 40 минут.
 - Портфолио: Страница портфолио отображает информацию об авторе и его краткое описание.
- ![Image alt](https://github.com/TatianaMil/movies-explorer-diplom/blob/main/Screenshot_2543.png)
+ ![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2604.png)
 - Авторизация и управление аккаунтом: Пользователи могут войти на сайт, используя функцию регистрации и логина.
  ![Image alt](https://github.com/stefaniafrolovafrolov/movies-explorer-diplom/blob/main/Screenshot_2544.png)
 - Также доступна страница аккаунта пользователя, где можно редактировать информацию о себе.
